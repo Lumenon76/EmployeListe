@@ -5,3 +5,10 @@ C:\Users\lumen\source\repos\GestionListeEmploye\GestionListeEmploye\obj\Debug\Ge
 C:\Users\lumen\source\repos\GestionListeEmploye\GestionListeEmploye\obj\Debug\GestionListeEmploye.csproj.CoreCompileInputs.cache
 C:\Users\lumen\source\repos\GestionListeEmploye\GestionListeEmploye\obj\Debug\GestionListeEmploye.exe
 C:\Users\lumen\source\repos\GestionListeEmploye\GestionListeEmploye\obj\Debug\GestionListeEmploye.pdb
+C:\Users\lumen_xmftzy4\Source\Repos\Lumenon76\EmployeListe\GestionListeEmploye\GestionListeEmploye\obj\Debug\GestionListeEmploye.csproj.AssemblyReference.cache
+C:\Users\lumen_xmftzy4\Source\Repos\Lumenon76\EmployeListe\GestionListeEmploye\GestionListeEmploye\obj\Debug\GestionListeEmploye.csproj.CoreCompileInputs.cache
+C:\Users\lumen_xmftzy4\Source\Repos\Lumenon76\EmployeListe\GestionListeEmploye\GestionListeEmploye\obj\Debug\GestionListeEmploye.exe
+C:\Users\lumen_xmftzy4\Source\Repos\Lumenon76\EmployeListe\GestionListeEmploye\GestionListeEmploye\obj\Debug\GestionListeEmploye.pdb
+C:\Users\lumen_xmftzy4\Source\Repos\Lumenon76\EmployeListe\GestionListeEmploye\GestionListeEmploye\bin\Debug\GestionListeEmploye.exe.config
+C:\Users\lumen_xmftzy4\Source\Repos\Lumenon76\EmployeListe\GestionListeEmploye\GestionListeEmploye\bin\Debug\GestionListeEmploye.exe
+C:\Users\lumen_xmftzy4\Source\Repos\Lumenon76\EmployeListe\GestionListeEmploye\GestionListeEmploye\bin\Debug\GestionListeEmploye.pdb

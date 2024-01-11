@@ -16,7 +16,15 @@ namespace GestionListeEmploye
             unEmploye.Id = 30;
 
             Console.WriteLine(unEmploye.Infos());
-            Console.WriteLine(unEmploye.Adress);
+
+            Console.Write("Nouveau numero de telephone: ");
+            unEmploye.Phone = int.Parse(Console.ReadLine());
+
+            Console.WriteLine(unEmploye.Infos());
+
+            Console.ReadLine();
+
+            
         }
     }
 }
